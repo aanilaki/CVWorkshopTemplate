@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Aanila Kishwar Tarannum is researching digital platforms, online censorship, and media production & consumption in the digital age. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Critical platform studies:** regional uses of global platforms, algorithmic censorship, platform governance
+- **Visual communication:** semiotics, visual rhetoric, visual cultures
+- **Free speech:** Censorship laws in the postcolony and their effect on media
 
 {% include_relative _includes/education.md %}
 
