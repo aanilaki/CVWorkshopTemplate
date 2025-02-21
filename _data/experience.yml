@@ -1,13 +1,28 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    degreepath: PhD in Media Arts & Sciences # for type.education.
+    institution: Indiana University Bloomington
+    department: The Media School
+    advisor: Julien Mailland # for type.education.
+    years: 2024 - Present
     notes: In Progress
+
+    - type: education
+    degreepath: Master of Arts in Communication # for type.education.
+    institution: Virginia Tech
+    department: School of Communication
+    advisor: Natalia Mielczarek # for type.education.
+    thesis: Bangladeshi Editorial Cartoons as Visual Rhetoric in the Context of Anti-Free Speech Laws # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2021-2023
+    
+    - type: education
+    degreepath: Bachelor of Business Administration (Marketing) # for type.education.
+    institution: University of Dhaka
+    department: Institute of Business Administration
+    advisor: Ridhwanul Hoque # for type.education.
+    thesis: United Nations Development Programme's usage of social media in development communication and future directions  # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2021-2023
     
   - type: job
     title: Example Job # for type.employment.
